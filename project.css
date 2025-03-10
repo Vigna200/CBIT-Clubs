@@ -4,7 +4,7 @@ html, body {
   }
   
   body {
-    background-image: url("./cbit.jpeg"); /* Replace with your image path */
+    background-image: url("./cbit.jpeg.jpg"); /* Replace with your image path */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
